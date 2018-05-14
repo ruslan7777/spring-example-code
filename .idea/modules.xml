@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example-code.iml" filepath="$PROJECT_DIR$/example-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springidol/springidol.iml" filepath="$PROJECT_DIR$/springidol/springidol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springidol-annotation/springidol-annotation.iml" filepath="$PROJECT_DIR$/springidol-annotation/springidol-annotation.iml" />
+    </modules>
+  </component>
+</project>
